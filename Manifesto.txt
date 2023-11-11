@@ -30,6 +30,7 @@ By empowering communities to build and manage their own networks, we can ensure 
 Another way to bridge the digital divide is through parity pricing. This means that the cost of accessing the internet and digital services should be proportional to the income levels in a country. This will ensure that everyone, regardless of their economic status, can afford to access the digital world.
 
 Respect for copyright is another important aspect of Web 3.0. In the current web model, creators often struggle to get paid for their work. Web 3.0 can address this issue by using blockchain technology to create a system where creators are rewarded for their work.
+
 This can be achieved by using smart contracts, which are self-executing contracts with the terms of the agreement directly written into code. 
 
 For example, a musician could use a smart contract to automatically receive payment every time their song is streamed.
